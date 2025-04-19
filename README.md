@@ -17,7 +17,7 @@ npm install
 3.Start the development server
 npm start
 
-3000
+The app will run on: http://localhost:3000
 
 💡 Approach
 Frontend: ReactJS with functional components
@@ -40,8 +40,6 @@ Each bug has a title, description, priority, status, and assigned person
 Technologies Used :
 
 ReactJS
-
-TailwindCSS
 
 React Router DOM
 
